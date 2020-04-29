@@ -30,7 +30,7 @@ image::cep-service.png[]
 == Requisitos
 
 - JDK 8 ou 11
-- Maven 3.5.3 ou superior
+- Maven 3.6.3 ou superior
 
 == Executar o Projeto
 
