@@ -56,6 +56,19 @@
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="MavenSettings" />
   </component>
+  <component name="RunManager">
+    <configuration name="quarkus:dev" type="ShConfigurationType">
+      <option name="INDEPENDENT_SCRIPT_PATH" value="true" />
+      <option name="SCRIPT_PATH" value="$PROJECT_DIR$/mvnw" />
+      <option name="SCRIPT_OPTIONS" value="compile quarkus:dev" />
+      <option name="INDEPENDENT_SCRIPT_WORKING_DIRECTORY" value="true" />
+      <option name="SCRIPT_WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="INDEPENDENT_INTERPRETER_PATH" value="true" />
+      <option name="INTERPRETER_PATH" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <method v="2" />
+    </configuration>
+  </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="2" />
   </component>
@@ -68,14 +81,18 @@
       <screen x="0" y="23" width="1280" height="777" />
     </state>
     <state x="321" y="156" key="#Unnamed/0.23.1280.777@0.23.1280.777" timestamp="1588167729771" />
-    <state x="0" y="23" width="1280" height="777" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1588167715024">
+    <state x="0" y="23" width="1280" height="777" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1588176338796">
       <screen x="0" y="23" width="1280" height="777" />
     </state>
-    <state x="0" y="23" width="1280" height="777" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.23.1280.777@0.23.1280.777" timestamp="1588167715024" />
-    <state x="321" y="156" key="#mvnw_quarkus:dev" timestamp="1588167933766">
+    <state x="0" y="23" width="1280" height="777" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.23.1280.777@0.23.1280.777" timestamp="1588176338796" />
+    <state x="321" y="156" key="#mvnw_quarkus:dev" timestamp="1588176381694">
       <screen x="0" y="23" width="1280" height="777" />
     </state>
-    <state x="321" y="156" key="#mvnw_quarkus:dev/0.23.1280.777@0.23.1280.777" timestamp="1588167933766" />
+    <state x="321" y="156" key="#mvnw_quarkus:dev/0.23.1280.777@0.23.1280.777" timestamp="1588176381694" />
+    <state x="321" y="156" key="#quarkus:dev" timestamp="1588176631879">
+      <screen x="0" y="23" width="1280" height="777" />
+    </state>
+    <state x="321" y="156" key="#quarkus:dev/0.23.1280.777@0.23.1280.777" timestamp="1588176631879" />
     <state width="1238" height="192" key="GridCell.Tab.0.bottom" timestamp="1588167309851">
       <screen x="0" y="23" width="1280" height="777" />
     </state>
