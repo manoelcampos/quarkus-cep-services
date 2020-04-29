@@ -1,0 +1,7 @@
+target/
+slides.html
+**/.idea/$PRODUCT_WORKSPACE_FILE$
+**/.idea/$CACHE_FILE$
+.DS_Store
+
+**/.idea/libraries/
