@@ -29,8 +29,24 @@ image::cep-service.png[]
 
 == Requisitos
 
+== Requisitos
+
 - JDK 8 ou 11
 - Maven 3.6.3 ou superior
+
+Mesmo as versões mais atuais do NetBeans vêm com versões antigas do Maven que não irá funcionar.
+
+O maven pode ser instalado, por exemplo em distribuições Linux baseadas em Debian, com:
+
+[source,bash]
+----
+sudo apt-get install maven
+----
+
+No Windows, pode-se baixar um arquivo `apache-maven-x.x.x-bin.zip` em https://maven.apache.org/download.cgi. Você também pode configurar o https://docs.microsoft.com/en-us/windows/wsl/install-win10[Windows Subsystem for Linux] e assim poderá baixar aplicações usando o mesmo comando Linux acima.
+
+No NetBeans então é possível indicar que deseja-se utilizar uma versão do Maven instalada no sistema, no lugar de usar a que vem com o NetBeans. 
+Para isto, acesse as preferências do NetBeans, depois a aba Java >> Maven e informe o caminho do comando "mvn" no campo "Maven Home".
 
 == Executar o Projeto
 
