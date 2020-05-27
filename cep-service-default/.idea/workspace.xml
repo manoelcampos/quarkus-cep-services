@@ -3,6 +3,10 @@
   <component name="ChangeListManager">
     <list default="true" id="b1497c0b-58e4-4a83-8ba8-ed4f131821d4" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cep-service-default.iml" beforeDir="false" afterPath="$PROJECT_DIR$/cep-service-default.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/manoelcampos/cepservice/cepservice.uml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/manoelcampos/cepservice/cepservice.uml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/META-INF/resources/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cep-service-producer/src/main/resources/META-INF/resources/index.html" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
