@@ -1,5 +1,6 @@
 :imagesdir: images
 :numbered:
+:icons: font
 
 ifdef::env-github[]
 //Exibe ícones para os blocos como NOTE e IMPORTANT no GitHub
@@ -13,7 +14,9 @@ endif::[]
 
 = Consumo de Serviços de CEP com Quarkus e injeção de dependências com CDI
 
-Aplicação de exemplo para consumo de serviço REST de consulta de endereço utilizando o framework http://quarkus.io[Quarkus].
+IMPORTANT: https://www.youtube.com/playlist?list=PLyo0RUAM69UsD_HNhT0b41QxM8UAx4t6h[Vídeo-aulas disponíveis aqui]
+
+Aplicação de exemplo para consumo de serviço REST de consulta de CEP utilizando o framework http://quarkus.io[Quarkus].
 São implementadas as classes ViaCepService e PostmonService para permitir consumir os serviços
 https://viacep.com.br[ViaCEP] e https://postmon.com.br[Postmon].
 
