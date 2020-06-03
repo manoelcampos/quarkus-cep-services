@@ -146,11 +146,11 @@ Veja a documentação deles para mais detalhes.
 == Referências
 
 - Documentação do WELD: Implementação de Referência do CDI
-    * https://docs.jboss.org/weld/reference/latest/en-US/html/intro.html#_what_is_a_bean[What is a bean (documentação do WELD)]
+    * https://docs.jboss.org/weld/reference/latest/en-US/html/intro.html#_what_is_a_bean[What is a bean]
     * https://docs.jboss.org/weld/reference/latest/en-US/html/scopescontexts.html[Scopes and contexts]
     * https://weld.cdi-spec.org/news/2016/10/25/tip3-performance/[Boost performance of Weld (CDI) apps]
 
 - Documentação Oficial da Oracle (apesar de ser pra Java 7, continua válida)
-    * https://docs.oracle.com/javaee/7/tutorial/cdi-basic008.htm[The Java EE 6 Tutorial: Using Scopes]
+    * https://docs.oracle.com/javaee/7/tutorial/cdi-basic008.htm[The Java EE 7 Tutorial: Using Scopes]
     * https://docs.oracle.com/javaee/7/tutorial/cdi-basic004.htm[About CDI Managed Beans]
 - http://cdi-spec.org[Site oficial da especificação CDI]
