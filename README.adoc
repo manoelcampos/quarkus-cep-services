@@ -1,4 +1,4 @@
-= Consumo de Serviços de CEP com framework Quarkus
+= Consumo de Serviços de CEP com framework Quarkus image:https://github.com/manoelcampos/quarkus-cep-services/workflows/maven/badge.svg[]
 
 Esta é a primeira versão da aplicação que mostra como utilizar uma anotação de escopo
 (como `@Dependent`, `@RequestScoped`, `@SessionScoped` ou `@ApplicationScoped`)
