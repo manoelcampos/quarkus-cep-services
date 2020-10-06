@@ -4,3 +4,6 @@ Esta versão da aplicação mostra como utilizar uma fábrica por meio de uma cl
 que permite definir a lógica para instanciar serviços de CEP.
 
 As informações de como executar o projeto foram mostradas na pasta anterior.
+
+A versão que sempre utiliza uma implementação default do serviço
+de cep está disponível no https://github.com/manoelcampos/quarkus-cep-services[branch master].
