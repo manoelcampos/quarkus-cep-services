@@ -1,4 +1,16 @@
+:icons: font
+ifdef::env-github[]
+:outfilesuffix: .adoc
+:caution-caption: :fire:
+:important-caption: :exclamation:
+:note-caption: :paperclip:
+:tip-caption: :bulb:
+:warning-caption: :warning:
+endif::[]
+
 = Consumo de Serviços de CEP com framework Quarkus image:https://github.com/manoelcampos/quarkus-cep-services/workflows/maven/badge.svg[]
+
+IMPORTANT: https://youtu.be/7CsjuCsMjo0[Vídeo: #1 Introdução à INJEÇÃO de DEPENDÊNCIAS com CDI e o framework QUARKUS em JAVA]
 
 Esta é a primeira versão da aplicação que mostra como utilizar uma anotação de escopo
 (como `@Dependent`, `@RequestScoped`, `@SessionScoped` ou `@ApplicationScoped`)
