@@ -25,3 +25,7 @@ no terminal, dentro da pasta raiz do projeto:
 ```bash
 mvn compile quarkus:dev
 ```
+
+== Testando a aplicação online
+
+A aplicação está disponível online https://quarkus-cep-services.herokuapp.com/[aqui].
