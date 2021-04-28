@@ -1,3 +1,4 @@
+:numbered:
 :icons: font
 ifdef::env-github[]
 :outfilesuffix: .adoc
